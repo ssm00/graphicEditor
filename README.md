@@ -25,6 +25,6 @@ Delete
 
 Group
 
-<img width="296" alt="9" src="https://github.com/ssm00/graphicEditor/assets/97657265/6bc5cc7b-355e-4a19-867c-b8640b6c6ff3">
+<img width="433" alt="9" src="https://github.com/ssm00/graphicEditor/assets/97657265/6bc5cc7b-355e-4a19-867c-b8640b6c6ff3">
 <img width="433" alt="11" src="https://github.com/ssm00/graphicEditor/assets/97657265/2ac6d1f0-6d34-447d-9bc7-ca8b791023b0">
 
